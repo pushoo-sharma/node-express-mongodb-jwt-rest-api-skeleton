@@ -69,3 +69,5 @@ typings/
 .env.production
 
 .history/
+temp_auto_push.bat
+temp_interactive_push.bat
